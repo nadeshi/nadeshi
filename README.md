@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @nadeshi
 - 👀 I’m interested in everything if it is interesting
 - 🌱 I’m currently learning react, and node.js
-- 🧑‍ Currently studying at The Hong Kong Polytechnic University
+- 📖 Currently studying at The Hong Kong Polytechnic University
 - 💀 I'm not good at anything
-- 🤡 I hate my life
+- 💩 <- This is my life
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : fgo(653806882)
 
