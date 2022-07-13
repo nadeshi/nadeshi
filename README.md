@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadeshi
 - 👀 I’m interested in everything if it is interesting
-- 🌱 I’m currently learning react, and node.js
+- 🌱 I’m currently learning react
 - 💀 I'm not good at anything
 - 💩 <- This is my life
 - 💞️ I’m looking to collaborate on ...
