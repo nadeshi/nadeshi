@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nadeshi
+- 👋 Hi, I’m @nadeshi, Student at The Hong Kong Polytechnic University 
 - 👀 I’m interested in everything if it is interesting
 - 🌱 I’m currently learning react
 - 💀 I'm not good at anything
